@@ -29,10 +29,9 @@ class Home extends React.Component {
           })}
         </div>
         <div className="bighome">
-          <h2>Broadway Online Experiences</h2>
+          <h2>How to Enhance your AirPnP Experience</h2>
           <p>
-            Join live, interactive performances and conversations with people
-            from Broadway and beyond. Without leaving home.
+            Interactive blogs and videos on how to ensure you have the best AirPnP.
           </p>
           <div className="home__cont">
             {this.state.bigcontent.map((item) => {

@@ -18,11 +18,11 @@ class Result extends React.Component {
       <div>
         <Nav />
         <div className="result">
-          <h4>{this.state.resultcontent.length} stays</h4>
-          <h2>Stays NearBy</h2>
+          <h4>{this.state.resultcontent.length} Lots</h4>
+          <h2>Lots Nearby</h2>
           <button>Cancellation Flexibility</button>
-          <button>Type Of Place</button>
-          <button>Rooms & Beds</button>
+          <button>Type Of Lot</button>
+          <button>Spacing</button>
           <button>More Filters</button>
         </div>
         {this.state.resultcontent.map((item) => {
@@ -56,7 +56,7 @@ class Result extends React.Component {
                     }}
                   ></button>
                   <div className="resultcont__price">
-                    <span>{item.price}</span> / night
+                    <span>{item.price}</span> / length
                   </div>
                   <div className="resultcont__star">
                     ★

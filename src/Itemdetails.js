@@ -99,7 +99,7 @@ class Itemdetails extends React.Component {
               <h3>Enhanced Clean</h3>
             </div>
             <h4 style={{ paddingLeft: "41px", width: "70%" }}>
-              This host committed to Airbnb's 5-step enhanced cleaning process.
+              This host committed to Airpnp's 5-step enhanced cleaning process.
             </h4>
             <br />
             <div className="items__icons">

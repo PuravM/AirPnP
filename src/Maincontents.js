@@ -9,7 +9,7 @@ export const Resultcontent = [
     location: "New York",
     host: "Mike",
     amenities: "Wifi · Air condition · kitchen",
-    smalldescription: "3 guests · 1 bedroom · 1 bed · 1 bath",
+    smalldescription: "Dimensions: 5m x 4m · Area: 20m²",
     price: "$100",
     description:
       "Massive 2 bedroom apartment literally SECONDS from Times Square. Comfortable, spacious and well maintained. Two full size bedrooms, separate kitchen, living room, office space. Stainless steel appliances, dishwasher. ",
@@ -23,8 +23,8 @@ export const Resultcontent = [
     location: "New Jersey",
     host: "Abod",
     amenities: "Wifi · Washer · kitchen",
-    smalldescription: "4 guests · 2 bedrooms · 0 beds · 1 bath",
-    price: "$150",
+    smalldescription: "Dimensions: 5m x 5m · Area: 25m²",
+    price: "$170",
     description:
       "This modern one bedroom apartment is found in a luxury apartment building, located in the eclectic neighborhood of Chelsea. Must see attractions include The High Line and Chelsea Market. Step outside and get around the city with ease with access to the A, C and E trains, located at the 34th Street and 8th Avenue subway station and the 1, 2 and 3 trains found at the 34th Street and 7th Avenue subway station.",
   },
@@ -37,7 +37,7 @@ export const Resultcontent = [
     location: "Florida",
     host: "Micheal",
     amenities: "Wifi · Washer · kitchen",
-    smalldescription: "1 guest · 1 bedroom · 1 bed · 1 shared bath",
+    smalldescription: "Dimensions: 4.5m x 4m · Area: 18m²",
     price: "$80",
     description:
       "Rooms in apartment located in luxury building for rent. Seeking primarily young professionals/ students/ interns. Enjoy a beautiful and safe home with a young environment.",
@@ -51,7 +51,7 @@ export const Resultcontent = [
     location: "New Jersey",
     host: "Abod Mike",
     amenities: "Wifi · Washer · iron",
-    smalldescription: "2 guests · 1 bedroom · 1 bed · 1 private bath",
+    smalldescription: "Dimensions: 5m x 4m · Area: 20m²",
     price: "$92",
     description:
       "Appointed with sleek furniture, our classic rooms offer the traditional comforts of home in one of the most time-honored hotels in Texas. Our ADA rooms provide you with a spacious bathroom that contains a bath tub with grab bars, and multiple room configurations to choose for your stay with up to 270 square feet and a queen sized bed.",
@@ -65,7 +65,7 @@ export const Resultcontent = [
     location: "New York",
     host: "Toju",
     amenities: "Wifi · Washer · kitchen",
-    smalldescription: "3 guests · 1 bedroom · 1 bed · 1 bath",
+    smalldescription: "Dimensions: 5m x 6m · Area: 30m²",
     price: "$169",
     description:
       "This modern one bedroom apartment is found in a luxury apartment building, located near the lively Theater District. This area is a tourist’s paradise, as it home to areas such as Times Square, Radio City Music Hall and Rockefeller Center. Step outside and get around the city with ease, as the 1 train is easily accessible from the 50th Street and Broadway subway station.",
@@ -79,8 +79,8 @@ export const Resultcontent = [
     location: "chicago",
     host: "abod micheal",
     amenities: "Wifi · Washer · kitchen",
-    smalldescription: "2 guests · 1 bedroom · 0 beds · 1 bath",
-    price: "$80",
+    smalldescription: "Dimensions: 4m x 4.75m · Area: 19m²",
+    price: "$88",
     description:
       "Prime Times square location with access to restaurants & bars.",
   },
@@ -93,7 +93,7 @@ export const Resultcontent = [
     location: "New Jersey",
     host: "Mike Abod",
     amenities: "Wifi · Washer · kitchen",
-    smalldescription: "2 guests · 1 bedroom · 1 bed · 1 bath",
+    smalldescription: "Dimensions: 5m x 4.8m · Area: 24m²",
     price: "$109",
     description:
       "Setting a new standard in cozy chic, these Broadway Classic rooms come with one full-size bed and features private bathroom, 43-inch flat screen TV, WiFi access, in-room safe, designer amenities, and Egyptian cotton sheets.",
@@ -107,7 +107,7 @@ export const Resultcontent = [
     location: "Washignton",
     host: "Abod",
     amenities: "Wifi · Washer · iron",
-    smalldescription: "4 guests · 1 bedroom · 2 beds · 1 private bath",
+    smalldescription: "Dimensions: 5m x 4.2m · Area: 21m²",
     price: "$105",
     description:
       "Extra spacious with modern styling, our open layout studio suite features two beds, a lounge area with a small kitchen, flat screen TV, work space and iHome docking station. Can accommodate up to 4 guests Features lowered shelving and lowered door viewers and latches. Accessible bathrooms include bathtubs with handrails.",
@@ -141,18 +141,18 @@ export const Bigcontents = [
     id: 11,
     img: "./main-card_1.jpg",
     styles: "bigcontents__list1",
-    description: "Decode the science of 2020 with Bill Nye",
+    description: "Learn how to maximize your event's impact",
   },
   {
     id: 12,
     img: "./main-card_2.jpg",
-    description: "Go on a leopard safari in Sri Lanka ",
+    description: "How to host a safe and successful event",
   },
   {
     id: 13,
     img: "./main-card_3.jpg",
     styles: "bigcontents__list3",
-    description: "Discover Buenos Aires street art and sketch",
+    description: "How to ensure your event is accessible to all",
   },
 ];
 
