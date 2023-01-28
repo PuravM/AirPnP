@@ -127,10 +127,10 @@ class Itemdetails extends React.Component {
                   <path d="m18.7652487 2.2057265c1-1 3.658 1.999 1.244 4.413l-1.9372487 1.9662735c-.78.781-.78 2.047 0 2.828.391.391.903.586 1.415.586l8.513.001c1.104 0 2 .896 2 2s-.896 2-2 2h-1c1.104 0 2 .896 2 2s-.896 2-2 2h-1c1.104 0 2 .896 2 2s-.896 2-2 2h-1c1.104 0 2 .896 2 2s-.896 2-2 2l-11.999-.00075c-1.4799105-.0005951-2.772087-.8045363-3.46408174-1.9994017l-5.53691826.0001517c-.55228475 0-1-.4477153-1-1v-10c0-.5522847.44771525-1 1-1l3.001-.0009098c5.8382366-5.85406905 9.5222235-9.54739462 11.0519608-11.08006692z"></path>
                 </g>
               </svg>
-              <h3>Outstanding hospitality</h3>
+              <h3>Outstanding service</h3>
             </div>
             <h4 style={{ paddingLeft: "41px", width: "70%" }}>
-              Few guests complimented {items.host} for outstanding hospitality..
+              Few guests complimented {items.host} for outstanding service..
             </h4>
             <br />
             <div className="items__icons">
@@ -153,7 +153,7 @@ class Itemdetails extends React.Component {
               <h3>Cancellation policy</h3>
             </div>
             <h4 style={{ paddingLeft: "41px", width: "70%" }}>
-              Add your trip dates to get the cancellation details for this stay.
+              Add your rental dates to get the cancellation details for this stay.
             </h4>
             <br />
             <hr />
@@ -188,7 +188,7 @@ class Itemdetails extends React.Component {
                   margin: "0 0 15px 30px",
                 }}
               >
-                Kitchen
+                Lighting System
               </h3>
             </div>
             <div className="items__icons">
@@ -272,7 +272,7 @@ class Itemdetails extends React.Component {
                   margin: "0 0 15px 30px",
                 }}
               >
-                Air conditioning
+                Power available
               </h3>
             </div>
             <div className="items__icons">
@@ -300,7 +300,7 @@ class Itemdetails extends React.Component {
                   margin: "0 0 15px 30px",
                 }}
               >
-                Laptop-friendly workspace
+                Animal-friendly Location
               </h3>
             </div>
             <button className="items__btn">Show all 35 amenities</button>
