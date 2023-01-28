@@ -118,21 +118,21 @@ export const Maincontents = [
   {
     id: 8,
     img: "./card__1.jpg",
-    title: "Unique stays",
-    description: "Spaces that are more than just a place to sleep and rest.",
+    title: "Unique venues",
+    description: "Spaces that are more than just a place to park.",
   },
   {
     id: 9,
     img: "./card__2.jpg",
-    title: "Online Experiences",
+    title: "Fun Experiences",
     description:
       "Unique activities we can do together, led by a world of hosts.",
   },
   {
     id: 10,
     img: "./card__3.jpg",
-    title: "Entire homes",
-    description: "Comfortable private places, with room for friends or family.",
+    title: "Entire communities",
+    description: "Lead communities you can be a part of.",
   },
 ];
 

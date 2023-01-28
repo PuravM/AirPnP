@@ -8,13 +8,12 @@ class Banner extends React.Component {
       <div className="banner">
         <Navbar />
         <div className="banner__content">
-          <h2>Go Near </h2>
+          <h2>Explore!</h2>
           <h5>
-            Settle in somewhere new. Discover new places to live, work, have fun
-            or relax.
+            Connect, meet, and share space with AirPnP!
           </h5>
           <Link to="/result">
-            <button>Explore NearBy</button>
+            <button>Explore Nearby</button>
           </Link>
         </div>
       </div>
