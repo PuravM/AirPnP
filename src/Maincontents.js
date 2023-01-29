@@ -74,15 +74,15 @@ export const Resultcontent = [
     id: 5,
     img: "./card_3.jpg",
     rating: "4.55(155)",
-    title: "downtown Montreal parking",
+    title: "Vancouver beach parking",
     type: "prime parking space",
-    location: "Montreal",
+    location: "Vancouver",
     host: "abod micheal",
-    amenities: "Wifi, Dog House,location factor ",
+    amenities: "Wifi, Dog House,location factor, near beach ",
     smalldescription: "Dimensions: 400m x 2m · Area: 800m²",
     price: "$2000",
     description:
-      "Spacious Parking Space with a 3 dog house so that you can enjoy the party with your pets.",
+      "Spacious Parking Space with a 3 dog houses so that you can enjoy the party with your pets, on the beach.",
   },
   {
     id: 6,
@@ -94,7 +94,7 @@ export const Resultcontent = [
     host: "Mike Abod",
     amenities: "Wifi,Party lights",
     smalldescription: "Dimensions: 500m x200 m · Area: 10000m²",
-    price: "$3000",
+    price: "$300",
     description:
       "Most spacious parking lot available in city along with party lights what else we need for a party.",
   },
@@ -108,9 +108,9 @@ export const Resultcontent = [
     host: "Abod",
     amenities: "Wifi,tree shelter,wooden flooring",
     smalldescription: "Dimensions: 50m*20m · Area: 100m²",
-    price: "$4000",
+    price: "$400",
     description:
-      "This is the most luxury parking lot near Mc gill best for university students in weekend. ",
+      "This is the most luxury parking lot near Mcgill best for university students in weekend. ",
   }
 ];
 
@@ -130,7 +130,7 @@ export const Maincontents = [
   },
   {
     id: 10,
-    img: "./card__3.jpg",
+    img: "./card__4.jpg",
     title: "Entire communities",
     description: "Lead communities you can be a part of.",
   },
@@ -159,25 +159,25 @@ export const Bigcontents = [
 export const Content = [
   {
     id: 0,
-    img: "./card_1.jpg",
+    img: "./result-card_3.jpg",
     styles: "bigcontents__list1",
-    title: "parking space  ",
+    title: "parking space ",
     price: "$100/night",
     description: "Awesome and spacious place to host events",
   },
   {
     id: 1,
-    img: "./card_2.jpg",
-    title: "full Home",
+    img: "./result-card_7.jpg",
+    title: "Parkspace",
     price: "$350/night",
     description: "Hello Welcome to NJ. Here is a vibrating neighborhood ",
   },
   {
     id: 5,
-    img: "./card_3.jpg",
+    img: "./result-card_5.jpg",
     title: "Square Studio",
     styles: "bigcontents__list3",
-    price: "$190/night",
+    price: "$590/night",
     description:
       "This space is THE center of the entire city. Some of the best",
   },

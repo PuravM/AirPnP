@@ -244,7 +244,7 @@ class Itemdetails extends React.Component {
                   margin: "0 0 15px 30px",
                 }}
               >
-                Hot tub
+                Stilt Parking/Trees
               </h3>
             </div>
             <div className="items__icons">

@@ -116,7 +116,7 @@ span h2 {
     transition: all 0.1s linear;
   }
   .mobile__icon:hover {
-    color: #ff385c;
+    color: #f73770;
   }
 }
 @media (max-width: 440px) {
