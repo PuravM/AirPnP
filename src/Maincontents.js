@@ -161,15 +161,15 @@ export const Content = [
     id: 0,
     img: "./card_1.jpg",
     styles: "bigcontents__list1",
-    title: "Bedroom  ",
+    title: "parking space  ",
     price: "$100/night",
-    description: "Awesome residential streets just a few blocks from dining",
+    description: "Awesome and spacious place to host events",
   },
   {
     id: 1,
     img: "./card_2.jpg",
     title: "full Home",
-    price: "$150/night",
+    price: "$350/night",
     description: "Hello Welcome to NJ. Here is a vibrating neighborhood ",
   },
   {
@@ -179,14 +179,14 @@ export const Content = [
     styles: "bigcontents__list3",
     price: "$190/night",
     description:
-      "Hell's kitchen is THE center of the entire city. Some of the best",
+      "This space is THE center of the entire city. Some of the best",
   },
   {
     id: 3,
     img: "./card_4.jpg",
     styles: "bigcontents__list4",
-    title: "Hotel Suit",
-    price: "$92/night",
-    description: "Our Texas hotel offers the traditional comforts of home ",
+    title: "parking place",
+    price: "$420/night",
+    description: " Our spaces can be used to create glamorous memories",
   },
 ];
